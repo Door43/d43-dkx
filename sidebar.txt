@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dkx:home|Door43 (dkx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dkx|d43-dkx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dkx/archive/master.zip|d43-dkx.zip]]
+
+**Recent Changes**
+{{changes>ns = dkx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dkx|Ethnologue data]]
+
